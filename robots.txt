@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://kharawat.github.io/Project-01-portfolio/sitemap.xml
+Sitemap: https://kharawat.github.io/portfolio/sitemap.xml
